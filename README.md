@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-Hallo meine neue Datei 
+Hallo mein neues Projekt  
